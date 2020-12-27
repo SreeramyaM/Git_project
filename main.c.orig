@@ -9,11 +9,11 @@ Initial Security()
 {
  //Sample Code
 }
-
+<<<<<<< HEAD
 Feature1 changes()
-
+=======
 Fetaure2 changes()
-
+>>>>>>> dev2
 {
 //Sample code
 }
